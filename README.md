@@ -1,5 +1,7 @@
 # WDA-2
 
+![alt tag](https://cloud.githubusercontent.com/assets/13777704/19233553/e7ffed86-8f31-11e6-8dcd-cd344a75698e.png)
+
 ## Table of Contents
 
 - [Basic Setup](#basic-setup)
